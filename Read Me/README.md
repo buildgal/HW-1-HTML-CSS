@@ -22,12 +22,12 @@ The following repo host the first homework assignment. The instricutions asked u
 * WHEN I view the title element
 * THEN I find a concise, descriptive title*
 
-# Screenshot
+## Screenshot
 The following screenshot shows my homework assignment deployed. 
 
 ![screenshot] (./Assets/screenshot.PNG)
 
-# Links 
+## Links 
 * Link to deploy: https://buildgal.github.io/HW-1-HTML-CSS/
 
 
