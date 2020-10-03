@@ -37,8 +37,8 @@ body {
 }
 
 .header div ul li {
-    display: inline-table;
-    margin-left: 100px;
+    display: inline-block;
+    margin-left: 25px;
 }
 
 a {
